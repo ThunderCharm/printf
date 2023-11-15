@@ -1,5 +1,5 @@
 #include "main.h"
-
+// This line is also a comment
 /**
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments
