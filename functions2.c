@@ -1,5 +1,5 @@
 #include "main.h"
-
+// This line is also a comment
 /****************** PRINT POINTER ******************/
 /**
  * print_pointer - Prints the value of a pointer variable
