@@ -1,5 +1,5 @@
 #include "main.h"
-
+// This line is also a comment
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
