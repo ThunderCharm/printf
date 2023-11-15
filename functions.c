@@ -1,5 +1,5 @@
 #include "main.h"
-
+// This line is also a comment
 /************************* PRINT CHAR *************************/
 
 /**
