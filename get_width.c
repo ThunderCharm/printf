@@ -1,5 +1,5 @@
 #include "main.h"
-
+// This line is also a comment
 /**
  * get_width - Calculates the width for printing
  * @format: Formatted string in which to print the arguments.
